@@ -92,6 +92,16 @@ movieHubFrontend/
 
 ---
 
+## default accounts to use
+
+**_ Admin account _**
+eamil : bob@example.com
+password : Bob@admin1
+
+**_ User account _**
+email : alice@example.com
+password : Alice@user1
+
 ## ✅ You’re All Set!
 
 Run the backend server, start this frontend, and enjoy the full **MovieHub experience** 🍿
